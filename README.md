@@ -39,7 +39,7 @@ This project involves clustering cryptocurrencies based on their performance met
 
 # Key Findings
 
-## Optimal Number of Clusters: Using the Elbow Method, K = 4 was identified as the best choice for both datasets.
+# Optimal Number of Clusters: Using the Elbow Method, K = 4 was identified as the best choice for both datasets.
 
 PCA Impact:
 - PCA significantly reduced dimensionality while retaining most information.
